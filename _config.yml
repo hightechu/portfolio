@@ -28,7 +28,6 @@ projects:
     projects:
     # - repo-name
      - hello
-     - official-website
      - hightechu-spring2019
      - resources
 
