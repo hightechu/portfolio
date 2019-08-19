@@ -16,7 +16,7 @@ HighTechU Members Projects: GitHub Repositories built by Youth.
 
 If you want to manage your website in a local web development environment, you'll be using [Ruby](https://jekyllrb.com/docs/installation/).
 
-**[Clone](https://help.github.com/articles/cloning-a-repository/)** the reposiroty.
+**[Clone](https://help.github.com/articles/cloning-a-repository/)** the repository.
 
 #### Install Jekyll
 
