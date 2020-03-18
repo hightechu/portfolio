@@ -23,12 +23,14 @@ projects:
     forks: true
     projects:
      - hello
-     - wp-bootstrap-navwalker
-     - official-website
-     - hightechu-spring2019
      - resources
      - portfolio
+     - official-website
+     - hightechu-spring2019
+     - hightechu-academy-project-fantasticblackberry
+     - wp-bootstrap-navwalker
      - flarum-ext-ajax
+     - awesome-quantum-software
 
 social_media:
   facebook: hightechu
