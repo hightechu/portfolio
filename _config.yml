@@ -31,6 +31,12 @@ projects:
      - wp-bootstrap-navwalker
      - flarum-ext-ajax
      - awesome-quantum-software
+     - flarum-ext-aqueduct
+     - hightechq
+     - hightechu-summer2020
+     - sci-fi-or-fantasy-data
+     - hightechu-project-scifi-or-fantasy
+     - hightechu-project-say-what-you-see
 
 social_media:
   facebook: hightechu
