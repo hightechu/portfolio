@@ -61,7 +61,7 @@ Don't worry about the "No GitHub API authentication could be found" message. [AP
 
 ### Publish
 
-Push to the `master` branch, GitHub Pages will deploy the website. 
+Push to the `main` branch, GitHub Pages will deploy the website. 
 
 ## License
 
