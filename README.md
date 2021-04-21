@@ -29,7 +29,7 @@ gem install jekyll bundler
 ```
 3. Change into your new directory
 ```
-cd personal-website
+cd portfolio
 ```
 4. Install missing gems
 ```
