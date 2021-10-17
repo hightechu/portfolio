@@ -22,6 +22,8 @@ projects:
     archived: false
     forks: true
     projects:
+     - hightechu-discord-bot
+     - pathways2quantum
      - hello
      - resources
      - portfolio
