@@ -43,6 +43,9 @@ projects:
      - internship-application-CSJ-2020
      - jasonette
      - skills-lab-covid19
+     - techccelerator-react-app
+     - techccelerator-web-app-template
+     - .github
 
 social_media:
   facebook: hightechu
